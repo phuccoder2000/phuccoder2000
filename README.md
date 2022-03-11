@@ -76,9 +76,6 @@
   <a href="https://www.youtube.com/channel/UCnumEoXlvseQAfcBNoxAFEA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HoangPhuc-youtube" />
   </a>
-  <a href="" target="blank">
-    <img src="" alt="trungquandev-linkedin" />
-  </a>
   <a href="https://www.instagram.com/coder020/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HoangPhuc-instagram" />
   </a>
