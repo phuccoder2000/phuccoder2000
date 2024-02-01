@@ -1,1 +1,2 @@
 
+<img src = "./bia.jpg">
