@@ -1,5 +1,4 @@
-<h2 align="left">Hello GitHub Visitor 👋 </h2>
-
-<p align="left">I'm Phuc, a self-taught web developer from Vietnam</p>
+<h2 align="left">Hello I'm Phuc 👋 </h2>
+<p align="left">i'm a self-taught web developer and I grew up chasing grasshoppers in a small rice-farming village in Vietnam.</p>
 
 <img src = "./images/bia.jpg">
