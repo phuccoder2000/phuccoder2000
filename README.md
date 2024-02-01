@@ -1,6 +1,6 @@
 <h2 align="left">Hello I'm Phuc 👋 </h2>
 <p align="left">✌️I'm a self-taught web developer and I grew up chasing grasshoppers in a small rice-farming village in Vietnam.</p>
-
+<p> 🏠I am living and working in Ho Chi Minh City, Vietnam</p>
 <img src = "./images/bia.jpg">
 <h3 align="left">I code with 🛠️</h3>
 
