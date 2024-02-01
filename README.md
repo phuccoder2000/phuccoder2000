@@ -34,4 +34,6 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
    <img width="19" />
+      <img src="https://cdn.simpleicons.org/figma/E34F26" height="40" alt="figma logo"  />
+  <img width="19" />
 </div>
