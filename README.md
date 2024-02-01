@@ -1,2 +1,2 @@
 
-<img src = "./bia.jpg">
+<img src = "./images/bia.jpg">
