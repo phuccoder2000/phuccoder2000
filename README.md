@@ -2,6 +2,10 @@
 <p align="left">✌️I'm a self-taught web developer and I grew up chasing grasshoppers in a small rice-farming village in Vietnam.</p>
 <p> 🏠I am living and working in Ho Chi Minh City, Vietnam</p>
 <img src = "./images/bia.jpg">
+<br>
+<p> 🕵️I'm interested in: plants, landscapes and beautiful applications...</p>
+<p> 🔎I am looking for a suitable job and a place where I can develop myself.</p>
+
 <h3 align="left">I code with 🛠️</h3>
 
 ###
@@ -37,8 +41,6 @@
       <img src="https://cdn.simpleicons.org/figma/E34F26" height="40" alt="figma logo"  />
   <img width="9" />
 </div>
-<br>
-<p> 🕵️I'm interested in: plants, landscapes and beautiful applications..</p>
-<p> 🔎I am looking for a suitable job and a place where I can develop myself</p>
+
 
 
