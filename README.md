@@ -37,3 +37,8 @@
       <img src="https://cdn.simpleicons.org/figma/E34F26" height="40" alt="figma logo"  />
   <img width="9" />
 </div>
+<br>
+<p> 🕵️I'm interested in: plants, landscapes and beautiful applications..</p>
+<p> 🔎I am looking for a suitable job and a place where I can develop myself</p>
+
+
