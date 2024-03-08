@@ -1,6 +1,7 @@
 <h2 align="left">Hello I'm Phuc 👋 </h2>
 <p align="left">✌️I'm a self-taught web developer and I grew up chasing grasshoppers in a small rice-farming village in Vietnam.</p>
 <p> 🏠I am living and working in Ho Chi Minh City, Vietnam</p>
+<p> 📫 How to reach me tonthatthang168@gmail.com</p>
 <img src = "./images/bia.jpg">
 <br>
 <p> 🕵️I'm interested in: plants, landscapes and beautiful applications...</p>
